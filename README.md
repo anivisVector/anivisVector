@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/anivisVector/anivisVector/blob/main/wlcome.jpg" alt="Banner Image" width="450"/>
+  <img src="https://github.com/anivisVector/anivisVector/blob/main/wlcome.jpg" alt="Banner Image" width="440"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aniket Vishnu</h1>
