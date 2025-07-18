@@ -9,8 +9,7 @@ Aspiring Software Developer with a strong foundation in Java, Python , Web Devel
 </p>
 
 ---
-  
-- 💻 Designed **Student Registration UI** with Java Swing  
+    
 - 🔐 Completed **Artificial Intelligence Fundamentals** *(IBM)*  
 - 🌐 Learning **Spring Boot**, **Gradle**, and **Cloud tools** (GCP, Firebase)  
 - ☁️ Exploring **Google Cloud Platform** and basic DevOps practices  
