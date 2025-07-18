@@ -2,61 +2,6 @@
   <img src="https://github.com/anivisVector/anivisVector/blob/main/image.png" alt="Banner Image" width="700"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Aniket Vishnu</h1>
-
-<p align="center">
-🎓 Final-Year CSE Student | 💻 Full-Stack Java Developer | ☁️ Cloud Enthusiast  
-</p>
-
----
-
-## 💡 About Me
-
-- 🔐 Completed **Google Cybersecurity Specialization** *(Coursera)*  
-- 💼 Currently building a **Personal Finance Tracker** with Java + SQL  
-- 📚 Learning Spring Boot, Gradle, SQL Optimization  
-- 🎯 Aspiring **Software Developer** with a focus on Java & Cloud
-
----
-
-## 💻 Skills
-
-- **Languages:** Java, Python, SQL  
-- **Web:** HTML, CSS, JSP, Servlets  
-- **Tools:** IntelliJ IDEA, VS Code, Git & GitHub  
-- **Cloud:** Google Cloud Platform, Firebase (Basics)
-
----
-
-## 🚀 Projects
-
-- 💰 **Personal Finance Tracker** — Java + MySQL + JSP  
-- 📝 **Student Registration UI** — Java Swing  
-- 🔐 **Cybersecurity Labs** — Bash, Python, SQL  
-- 📁 *More projects coming soon...*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anivisVector&show_icons=true&theme=tokyonight" alt="Aniket's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anivisVector&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-- 📧 [anikets.email@gmail.com](mailto:anikets.email@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aniket-vishnu)  
-- 🌐 [Portfolio Website](https://aniketvishnu.github.io/) *(coming soon)*  
-- 🐦 [Twitter/X](https://twitter.com/yourhandle)
-
----
-
-> _“The only way to do great work is to love what you do.”_ — **Steve Jobs**
 <h1 align="center">Hi 👋, I'm Aniket Vishnu</h1>
 
 <p align="center">
@@ -154,6 +99,3 @@ Aspiring Software Developer with a strong foundation in Java, Python , Web Devel
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anivisVector&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
-
-
-
