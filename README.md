@@ -55,16 +55,5 @@ Aspiring Software Developer with a strong foundation in Java, Python, Web Develo
 
 ---
 
-## 📊 GitHub Stats & Most Used Languages
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anivisVector&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
-    height="180"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anivisVector&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
-    height="180"
-  />
-</p>
+
