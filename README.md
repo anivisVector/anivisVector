@@ -1,59 +1,75 @@
 <p align="center">
-  <img src="https://github.com/anivisVector/anivisVector/blob/main/wlcome.jpg" alt="Banner Image" width="430"/>
+  <img src="banner.png" alt="Aniket Vishnu – Turning ideas into secure, working software" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aniket Vishnu</h1>
 
 <p align="center">
-Aspiring Software Developer with a strong foundation in Java, Python, Web Development, and SQL.
+  <a href="https://anivisvector.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Computer+Science+Engineer+(B.E.%2C+2026);Building+AI-powered%2C+secure+web+apps;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+Flask+%C2%B7+React;Generative+AI+%26+LLM+integration" alt="Typing intro"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://anivisvector.github.io"><img src="https://img.shields.io/badge/Portfolio-anivisvector.github.io-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/aniket-vishnu"><img src="https://img.shields.io/badge/LinkedIn-aniket--vishnu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:aniketvishnu.av@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anivisVector&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🚀 About me
 
-- 💻 Languages: Java, Python, SQL, JavaScript  
-- 🌐 Web: HTML, CSS, Flask, REST APIs  
-- 🗄️ Database: MySQL  
-- 🔐 Cybersecurity: Networking, Threats, Vulnerabilities, Linux  
-- ☁️ Tools: Git, GitHub, Google Cloud, Linux
-  
-🎓 Final-Year CSE Student, Bangalore  
-📬 Reach me: [aniketvishnu.av@gmail.com](mailto:aniketvishnu.av@gmail.com)
+- 🎓 **B.E. in Computer Science & Engineering** – Sapthagiri College of Engineering (VTU), 2026 · **CGPA 8.9** · First Class with Distinction
+- 💼 **Technical Operations Intern** at **Karix** (Bengaluru)
+- 🤖 Completed the **Bharat Unnati AI Fellowship** – a 4-month AI internship on Generative AI and agentic AI workflows
+- 📄 Co-author of a survey on crime detection & prevention, published in **IJRASET (2025)**
+- 🌱 Currently strengthening **Java & data structures**, learning **Spring Boot** and exploring practical automation
+- 📍 Bengaluru, India
 
 ---
 
-## 🌐 Connect with Me
+### 🛠️ Tech stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-vishnu-678a64258/)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,flask,nodejs,sqlite,mysql,git,github,linux,vscode&perline=7" alt="Java, Python, JavaScript, HTML, CSS, React, Flask, Node.js, SQLite, MySQL, Git, GitHub, Linux, VS Code"/>
+</p>
+
+| Area | Tools |
+|---|---|
+| 💻 Languages | Java · Python · SQL · JavaScript |
+| 🌐 Web | React · Flask · REST APIs · HTML · CSS |
+| 🤖 AI & Data | Generative AI · Gemini API · scikit-learn · NumPy |
+| 🗄️ Databases | SQLite · MySQL |
+| 🔐 Security & Tools | Git & GitHub · Linux · Google Cybersecurity Professional Certificate |
 
 ---
 
-## 🛠️ Languages & Tools
+### 🧩 Featured projects
 
-<p align="left">
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/?size=96&id=87330&format=png" width="40"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/></a>
-  <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
-  <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a>
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
+| Project | What it does | Built with |
+|---|---|---|
+| **🛡️ NagrikSuraksha** <br/><sub>Final-year team project</sub> | Citizen safety & crime-reporting platform. I built the **Police Dashboard** – role-based admin/officer views, complaint assignment, SOS alerts with map locations, resolved-case tracking and a face-recognition search screen. Presented at the **ICGCP-2026** international conference. | React · Node.js · SQLite · JWT · TOTP 2FA |
+| **💰 Personal Budget Tracker** | Multi-user finance app with **AI features**: Gemini-powered natural-language & voice entry, AI spending insights, and a scikit-learn model that auto-categorises transactions. | Python · Flask · SQLite · Gemini API · scikit-learn |
+| **📈 Stock Data Intelligence Dashboard** | Calculates returns, moving averages, 52-week highs/lows and volatility, served through REST APIs to an interactive dashboard. | Python · Flask · NumPy · Chart.js |
+| **🍔 Dineva – Food Delivery Web App** | Responsive food-ordering app with menus, cart, checkout, order tracking and an admin dashboard. | JavaScript · HTML · CSS |
+
+---
+
+### 📊 GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anivisVector&theme=tokyonight&hide_border=true&background=0B0B1F&ring=A855F7&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak"/>
 </p>
 
 ---
 
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=40&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=420&height=70&lines=Keep+Building" alt="Keep Building"/>
+  <br/>
+  <sub>LEARN · BUILD · SOLVE · GROW</sub>
+</p>
