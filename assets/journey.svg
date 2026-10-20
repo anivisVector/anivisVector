@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="266" viewBox="0 0 1200 266" role="img" aria-label="Journey: B.E. 2022, IJRASET 2025, AI Fellowship 2026, ICGCP-2026, graduated CGPA 8.9, joined Karix, next Spring Boot and AI">
+  <title>Aniket Vishnu – journey timeline</title>
+  <defs>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d946ef"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <linearGradient id="lnu" gradientUnits="userSpaceOnUse" x1="90" y1="0" x2="1110" y2="0"><stop offset="0" stop-color="#d946ef"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <radialGradient id="ng"><stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#110b2e"/><stop offset="1" stop-color="#07131f"/></linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif}
+    .wh{fill:#22d3ee;font-size:12px;font-weight:700;letter-spacing:2px}
+    .tt{fill:#f1f5f9;font-size:15px;font-weight:700}
+    .sb{fill:#94a3b8;font-size:12.5px}
+    .em{font-size:16px}
+    .path{stroke-dasharray:1020;stroke-dashoffset:1020;animation:draw 3s ease-out .2s forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .nd{opacity:0;animation:pop .6s ease-out forwards}
+    @keyframes pop{from{opacity:0}to{opacity:1}}
+    .halo{animation:pulse 2.6s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.15}50%{opacity:.55}}
+    .flow{stroke-dasharray:6 18;animation:flow 1.6s linear infinite}
+    @keyframes flow{to{stroke-dashoffset:-24}}
+  </style>
+  <rect x="1" y="1" width="1198" height="264" rx="18" fill="url(#bg)" stroke="#ffffff" stroke-opacity=".08"/>
+  <line x1="90" y1="128" x2="1110" y2="128" stroke="#ffffff" stroke-opacity=".06" stroke-width="6" stroke-linecap="round"/>
+  <line x1="90" y1="128" x2="1110" y2="128" stroke="url(#lnu)" stroke-width="4" stroke-linecap="round" class="path"/>
+  <line x1="90" y1="128" x2="1110" y2="128" stroke="#ffffff" stroke-opacity=".35" stroke-width="1.5" class="flow"/>
+  <g class="nd" style="animation-delay:0.3s">
+      <circle cx="90" cy="128" r="24" fill="url(#ng)" opacity=".25" class="halo" style="animation-delay:0.3s"/>
+      <circle cx="90" cy="128" r="17" fill="#0b0b1f" stroke="url(#ln)" stroke-width="3" />
+      <text x="90" y="134" text-anchor="middle" class="em">🎓</text>
+      <line x1="90" y1="104" x2="90" y2="76" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/>
+      <text x="90" y="44" text-anchor="middle" class="wh">DEC 2022</text>
+      <text x="90" y="64" text-anchor="middle" class="tt">Started B.E. CSE</text>
+      <text x="90" y="82" text-anchor="middle" class="sb">Sapthagiri CoE · VTU</text>
+    </g><g class="nd" style="animation-delay:0.72s">
+      <circle cx="260" cy="128" r="24" fill="url(#ng)" opacity=".25" class="halo" style="animation-delay:0.72s"/>
+      <circle cx="260" cy="128" r="17" fill="#0b0b1f" stroke="url(#ln)" stroke-width="3" />
+      <text x="260" y="134" text-anchor="middle" class="em">📄</text>
+      <line x1="260" y1="152" x2="260" y2="174" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/>
+      <text x="260" y="196" text-anchor="middle" class="wh">SEP 2025</text>
+      <text x="260" y="216" text-anchor="middle" class="tt">Published survey</text>
+      <text x="260" y="234" text-anchor="middle" class="sb">IJRASET · Vol 13</text>
+    </g><g class="nd" style="animation-delay:1.14s">
+      <circle cx="430" cy="128" r="24" fill="url(#ng)" opacity=".25" class="halo" style="animation-delay:1.14s"/>
+      <circle cx="430" cy="128" r="17" fill="#0b0b1f" stroke="url(#ln)" stroke-width="3" />
+      <text x="430" y="134" text-anchor="middle" class="em">🤖</text>
+      <line x1="430" y1="104" x2="430" y2="76" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/>
+      <text x="430" y="44" text-anchor="middle" class="wh">JAN 2026</text>
+      <text x="430" y="64" text-anchor="middle" class="tt">AI Fellowship</text>
+      <text x="430" y="82" text-anchor="middle" class="sb">Bharat Unnati AI</text>
+    </g><g class="nd" style="animation-delay:1.56s">
+      <circle cx="600" cy="128" r="24" fill="url(#ng)" opacity=".25" class="halo" style="animation-delay:1.56s"/>
+      <circle cx="600" cy="128" r="17" fill="#0b0b1f" stroke="url(#ln)" stroke-width="3" />
+      <text x="600" y="134" text-anchor="middle" class="em">🎤</text>
+      <line x1="600" y1="152" x2="600" y2="174" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/>
+      <text x="600" y="196" text-anchor="middle" class="wh">APR 2026</text>
+      <text x="600" y="216" text-anchor="middle" class="tt">Paper presented</text>
+      <text x="600" y="234" text-anchor="middle" class="sb">ICGCP-2026</text>
+    </g><g class="nd" style="animation-delay:1.98s">
+      <circle cx="770" cy="128" r="24" fill="url(#ng)" opacity=".25" class="halo" style="animation-delay:1.98s"/>
+      <circle cx="770" cy="128" r="17" fill="#0b0b1f" stroke="url(#ln)" stroke-width="3" />
+      <text x="770" y="134" text-anchor="middle" class="em">🏅</text>
+      <line x1="770" y1="104" x2="770" y2="76" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/>
+      <text x="770" y="44" text-anchor="middle" class="wh">MAY 2026</text>
+      <text x="770" y="64" text-anchor="middle" class="tt">Graduated</text>
+      <text x="770" y="82" text-anchor="middle" class="sb">CGPA 8.9 · Distinction</text>
+    </g><g class="nd" style="animation-delay:2.4s">
+      <circle cx="940" cy="128" r="24" fill="url(#ng)" opacity=".25" class="halo" style="animation-delay:2.4s"/>
+      <circle cx="940" cy="128" r="17" fill="#0b0b1f" stroke="url(#ln)" stroke-width="3" />
+      <text x="940" y="134" text-anchor="middle" class="em">💼</text>
+      <line x1="940" y1="152" x2="940" y2="174" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/>
+      <text x="940" y="196" text-anchor="middle" class="wh">MAY 2026</text>
+      <text x="940" y="216" text-anchor="middle" class="tt">Joined Karix</text>
+      <text x="940" y="234" text-anchor="middle" class="sb">Tech Ops Intern</text>
+    </g><g class="nd" style="animation-delay:2.82s">
+      <circle cx="1110" cy="128" r="24" fill="url(#ng)" opacity=".25" class="halo" style="animation-delay:2.82s"/>
+      <circle cx="1110" cy="128" r="17" fill="#0b0b1f" stroke="#22d3ee" stroke-width="3" stroke-dasharray="4 4"/>
+      <text x="1110" y="134" text-anchor="middle" class="em">🚀</text>
+      <line x1="1110" y1="104" x2="1110" y2="76" stroke="#ffffff" stroke-opacity=".15" stroke-dasharray="2 4"/>
+      <text x="1110" y="44" text-anchor="middle" class="wh">NEXT</text>
+      <text x="1110" y="64" text-anchor="middle" class="tt">Keep building</text>
+      <text x="1110" y="82" text-anchor="middle" class="sb">Spring Boot · AI</text>
+    </g>
+</svg>
