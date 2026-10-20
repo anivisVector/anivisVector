@@ -16,9 +16,6 @@
   <a href="mailto:aniketvishnu.av@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anivisVector&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views"/>
-</p>
 
 ---
 
@@ -60,16 +57,8 @@
 
 ---
 
-### 📊 GitHub activity
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anivisVector&theme=tokyonight&hide_border=true&background=0B0B1F&ring=A855F7&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=40&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=420&height=70&lines=Keep+Building" alt="Keep Building"/>
+  <img src="keep-building.png" alt="Keep Building" width="340"/>
   <br/>
   <sub>LEARN · BUILD · SOLVE · GROW</sub>
 </p>
