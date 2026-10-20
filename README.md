@@ -13,7 +13,7 @@
 ## ⚡ `whoami`
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="whoami: Aniket Vishnu, Computer Science Engineer (B.E., 2026). Education: B.E. CSE, Sapthagiri College of Engineering (VTU), CGPA 8.9. Experience: Technical Operations Intern at Karix; AI Intern, Bharat Unnati AI Fellowship. Projects: NagrikSuraksha, Ledgerly budget tracker, Stock Dashboard, Dineva. Learning: Spring Boot." width="85%"/>
+  <img src="assets/terminal.svg" alt="whoami: Aniket Vishnu, Computer Science Engineer (B.E., 2026). Education: B.E. CSE, Sapthagiri College of Engineering (VTU), CGPA 8.9. Experience: Technical Operations Intern at Karix; AI Intern, Bharat Unnati AI Fellowship. Projects: NagrikSuraksha, Lekha budget tracker, Stock Dashboard, Dineva. Learning: Spring Boot." width="85%"/>
 </p>
 
 > I'm a Computer Science engineer from Bengaluru who enjoys building **practical, secure web applications — increasingly with AI built in.** I graduated in **First Class with Distinction (CGPA 8.9)**, co-authored a paper in **IJRASET**, presented my final-year project at the **ICGCP-2026** international conference, and completed the **Bharat Unnati AI Fellowship**.
@@ -64,14 +64,14 @@ Citizen safety & crime-reporting platform. I built the **Police Dashboard** — 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Ledgerly – Personal Budget Tracker
+### 💰 Lekha – Personal Budget Tracker
 <sub>🤖 <b>AI-powered</b> · 🟢 <b>Live</b> on Vercel</sub>
 
 Full-stack finance app: log entries in plain words or by **voice/chat assistant (Gemini)**, monthly budgets with **pace projections**, a financial health score, CSV import/export, and a **per-user Naive Bayes model** (written in pure Python) that suggests categories.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-<a href="https://ledgerly-tracker-eight.vercel.app"><img src="https://img.shields.io/badge/▶_Live_demo-7c3aed?style=for-the-badge" alt="Live demo"/></a> <a href="https://github.com/anivisVector/Personal-Budget-Tracker"><img src="https://img.shields.io/badge/Code-0B0B1F?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+<a href="https://lekha-money.vercel.app"><img src="https://img.shields.io/badge/▶_Live_demo-7c3aed?style=for-the-badge" alt="Live demo"/></a> <a href="https://github.com/anivisVector/Personal-Budget-Tracker"><img src="https://img.shields.io/badge/Code-0B0B1F?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 
 </td>
 </tr>
